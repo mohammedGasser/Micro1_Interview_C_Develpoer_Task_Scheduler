@@ -34,7 +34,7 @@ int Task_Scheduler(  char  (&arr)[9],int n )
          flag+=3;
          
        else if( A--!=-1)
-        flag+=3;
+        flag+=2;
        
     }
     return flag;
